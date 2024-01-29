@@ -5,11 +5,11 @@
 
 - 📊Working as Data Analyst [Capacity Building Service Group (CBSG)](https://cbsg-bd.org/staff.php)
 
-- 📧Email me at **rabiul.cci@gmail.com**
-
 - 📈Working at Research Analyst [Center for Climate Intelligence (CCI)](https://climateintelligence.center/team/)
 
 - 📒Learning **Data Science & Machine Learning**
+
+- 📧Email me at **rabiul.cci@gmail.com**
 
 - 💬 Ask me about **DS&ML, Stata, Python, SQL & PowerBI**
 
@@ -27,4 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robi5bd&show_icons=true&locale=en&layout=compact" alt="robi5bd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robi5bd&show_icons=true&locale=en" alt="robi5bd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robi5bd&" alt="robi5bd" /></p>
 
